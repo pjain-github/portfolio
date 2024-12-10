@@ -1,6 +1,8 @@
 title: Pratik Jain
 logo: /assets/img/profilepic.jpg
-description: I am AI Software Engineer with 
+description: 
+    <p> I am AI Software Engineer with </p>
+    <p> Contact - official.jain.pratik@gmail.com </p>
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
