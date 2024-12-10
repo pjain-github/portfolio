@@ -20,7 +20,7 @@ Fraud detection is a set of processes and analyses that allow businesses to iden
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/pjain-github/Credit-Card-Fraud-Detection)
 
-<center><img src="assets/img/credit_card_fraud.webp" width="500"/></center>
+<center><img src="assets/img/credit_card_fraud.webp" width="250"/></center>
 <br/>
 
 ### Melanoma Detection using CNN
@@ -29,7 +29,7 @@ This project aims to build a CNN-based model that can accurately detect melanoma
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/pjain-github/Melanoma-Detection-using-CNN)
 
-<center><img src="assets/img/cnn_melonoma_detection.jpg" width="500"/></center>
+<center><img src="assets/img/cnn_melonoma_detection.jpg" width="250"/></center>
 <br/>
 
 ### Recommendation Model using Pyspark
@@ -38,7 +38,7 @@ This project explores a recipie rating data and builds a collaborative filtering
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/pjain-github/Recommedation_model_pyspark)
 
-<center><img src="assets/img/pyspark_recommenation.png" width="500"/></center>
+<center><img src="assets/img/pyspark_recommenation.png" width="250"/></center>
 <br/>
 
 ### NER - Identifying Entities in Healthcare Data
@@ -47,6 +47,6 @@ This project uses a Conditional Random Field model to automatically identify key
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/pjain-github/NER-Healthcare-Entities)
 
-<center><img src="assets/img/ner.webp" width="500"/></center>
+<center><img src="assets/img/ner.webp" width="250"/></center>
 
 ---
