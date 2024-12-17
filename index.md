@@ -6,6 +6,8 @@
 ### Financial Data Chatbot - Chatbot to get financial data for US Companies
 [Financial Data Chatbot](https://financial-data-bot.streamlit.app/)
 
+<center><img src="assets/img/chatbot_image.png" width="250"/></center>
+
 The Financial Data Bot(USA) is a chatbot designed to provide users with insights and answers from company-reported financial data, such as income statements, balance sheets, and more.
 
 The Financial Data Bot leverages the latest advancements in AI and data processing technologies:
