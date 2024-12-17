@@ -3,9 +3,40 @@
 
 ## Live Apps
 
+### Financial Data Chatbot - Chatbot to get financial data for US Companies
+[Financial Data Chatbot](https://financial-data-bot.streamlit.app/)
+
+The Financial Data Bot(USA) is a chatbot designed to provide users with insights and answers from company-reported financial data, such as income statements, balance sheets, and more.
+
+The Financial Data Bot leverages the latest advancements in AI and data processing technologies:
+
+- **Retrieval-Augmented Generation (RAG):** For accurate and context-aware responses.
+- **Large Language Models (LLMs):** Powered by **Google Gemini** or **OpenAI** models for natural language understanding.
+- **Data Processing:** Efficient handling of financial data using **Pandas** and custom scripts.
+- **APIs:** To fetch, process, and serve up-to-date financial data.
+- **Streamlit:** For creating an intuitive and interactive web application.
+- **PostgreSQL:** For robust and scalable data storage and retrieval.
+- **Python:** The backbone of the application, powering logic, data processing, and integrations.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/pjain-github/financial_data_bot)
+
+---
+<br/>
+
 ### Instant Search - RAG based Document Retrival System
 [Instant Search](https://instantsearch-app.streamlit.app/)
 
+This chatbot is designed to provide accurate, context-aware answers by leveraging your custom database. You can upload files or add links directly through the user interface to build a personalized knowledge base. The chatbot uses advanced AI techniques to process and retrieve information, ensuring reliable and precise responses tailored to your needs.
+
+Tech Stack:
+- **Retrieval-Augmented Generation (RAG)**: Ensures accurate and context-aware responses.
+- **Large Language Models (LLMs)**: Powered by **Google Gemini** or **OpenAI** models for natural language understanding.
+- **Data Processing**: Efficient handling of data using **Pandas** and custom scripts.
+- **Streamlit**: Provides an intuitive and interactive web interface.
+- **Python**: Powers all application logic, data processing, and integrations.
+- **Vector Database(Pinecone)**: Ensures fast and relevant information retrieval.
+- **Web Scraping**: Uses **Beautiful Soup** to extract and structure data from online sources.
+- **Document Parsing**: Supports PDF and Word documents for database creation.
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/pjain-github/InstantSearch)
 
