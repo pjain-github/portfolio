@@ -53,7 +53,6 @@ Fraud detection is a set of processes and analyses that allow businesses to iden
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/pjain-github/Credit-Card-Fraud-Detection)
 
-<center><img src="assets/img/credit_card_fraud.webp" width="250"/></center>
 <br/>
 
 ### Melanoma Detection using CNN
@@ -70,7 +69,6 @@ This project explores a recipie rating data and builds a collaborative filtering
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/pjain-github/Recommedation_model_pyspark)
 
-<center><img src="assets/img/pyspark_recommenation.png" width="250"/></center>
 <br/>
 
 ### NER - Identifying Entities in Healthcare Data
