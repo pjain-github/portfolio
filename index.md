@@ -1,4 +1,4 @@
-# Data Science Portfolio
+# Pratik Jain Portfolio
 ---
 
 ## Live Apps
