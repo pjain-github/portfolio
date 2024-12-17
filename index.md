@@ -26,8 +26,6 @@ The Financial Data Bot leverages the latest advancements in AI and data processi
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/pjain-github/financial_data_bot)
 
 ---
-<br/>
-
 ### Instant Search - RAG based Document Retrival System
 [Instant Search](https://instantsearch-app.streamlit.app/)
 
@@ -56,24 +54,21 @@ Fraud detection is a set of processes and analyses that allow businesses to iden
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/pjain-github/Credit-Card-Fraud-Detection)
 
-<br/>
-
+---
 ### Melanoma Detection using CNN
 
 This project aims to build a CNN-based model that can accurately detect melanoma, a deadly type of skin cancer. Early detection of melanoma is crucial for successful treatment, and this solution has the potential to reduce manual effort in diagnosis.
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/pjain-github/Melanoma-Detection-using-CNN)
 
-<br/>
-
+---
 ### Recommendation Model using Pyspark
 
 This project explores a recipie rating data and builds a collaborative filtering model to predict recipe ratings, which can be used to recommend new dishes to users. It involves data cleaning, exploratory data analysis (EDA), feature selection, model training, and evaluation.
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/pjain-github/Recommedation_model_pyspark)
 
-<br/>
-
+---
 ### NER - Identifying Entities in Healthcare Data
 
 This project uses a Conditional Random Field model to automatically identify key entities, like diseases and treatments, in unstructured healthcare text for various healthcare applications.
