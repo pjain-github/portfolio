@@ -1,5 +1,8 @@
 # Pratik Jain Portfolio
 ---
+## About
+
+I am Pratik, an AI Software Engineer with half a decade of experience specializing in building and managing AI projects in the financial domain. My expertise encompasses product management, data science, programming, data analytics, and database management. I excel in delivering impactful projects that align with business objectives.
 
 ## Live Apps
 
