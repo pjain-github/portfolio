@@ -60,7 +60,6 @@ This project aims to build a CNN-based model that can accurately detect melanoma
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/pjain-github/Melanoma-Detection-using-CNN)
 
-<center><img src="assets/img/cnn_melonoma_detection.jpg" width="250"/></center>
 <br/>
 
 ### Recommendation Model using Pyspark
@@ -77,7 +76,5 @@ This project explores a recipie rating data and builds a collaborative filtering
 This project uses a Conditional Random Field model to automatically identify key entities, like diseases and treatments, in unstructured healthcare text for various healthcare applications.
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/pjain-github/NER-Healthcare-Entities)
-
-<center><img src="assets/img/ner.webp" width="250"/></center>
 
 ---
